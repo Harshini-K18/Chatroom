@@ -14,7 +14,7 @@ git clone https://github.com/Harshini-K18/Chatroom.git
 
 --> Move into the directory where we have the project files : 
 ```bash
-cd StudyBud
+cd ChatRoomfinal
 
 ```
 
