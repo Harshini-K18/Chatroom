@@ -1,5 +1,5 @@
 <div align="center">
-<img width="30%" src="https://user-images.githubusercontent.com/72341453/134747028-7e2d90cc-a92f-4f66-815e-54a0d50cca54.PNG">
+<img width="30%" src="https://github.com/user-attachments/assets/c9da53db-6a35-4bf6-9802-19403cd2df92">
 
 # CodeFlow
 </div>
@@ -58,6 +58,13 @@ python manage.py runserver
 
 <table width="100%"> 
 <tr>
+<td width="50%">
+<br>
+<p align="center">
+  Login
+</p>
+<img src="https://github.com/user-attachments/assets/a1a73319-0533-49d4-9d74-6a0191b24251"> 
+</td>
 <td width="50%">      
 &nbsp; 
 <br>
@@ -72,8 +79,15 @@ python manage.py runserver
 <p align="center">
   Room Conversation Preview
 </p>
-<img src="https://github.com/user-attachments/assets/95853072-11a8-45c2-b6a1-10cdcc8aba6d">
-">  
+<img src="https://github.com/user-attachments/assets/95853072-11a8-45c2-b6a1-10cdcc8aba6d"> 
+</td>
+<td width="50%">
+<br>
+<p align="center">
+  toggle theme
+</p>
+<img src="https://github.com/user-attachments/assets/afc4dc99-7cf7-403d-b48c-18004dffaac9">
+<img src="https://github.com/user-attachments/assets/8e75b190-ab2b-486e-8188-f60b60a7919d">
 </td>
 </table>
 
